@@ -1,1 +1,3 @@
 # Todolist_Web
+This website is not finished and hosted yet! Anyone can use these files for free...
+*Hope you enjoy*
